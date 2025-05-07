@@ -2,7 +2,7 @@ package test;
 
 public class GitTest {
 
-    private String message = "change message.";
+    private String message = "도원 커밋 진행중...";
 
     // 기능을 추가하고 git 명령어를 사용해 보세요.
     public void print_message(){
